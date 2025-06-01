@@ -1,10 +1,20 @@
+a = [[0,1,2],[0,1,2]]
+a[0][0] = 20
+print(a)
+
+
+
+
+
+"""
+
 mark = int(input("Enter the Marks"))
 while mark != 0:
     if mark > 100:
         print("Invalid Mark")
     elif
 
-
+"""
 
 
 

@@ -1,4 +1,4 @@
-print(1+2+3+4+5+6+7+8+9+10+11+12+13+14+15+16+17+18+19)
+'''print(1+2+3+4+5+6+7+8+9+10+11+12+13+14+15+16+17+18+19)'''
 
 """a = 10
 for i in range(1,20):
@@ -12,9 +12,11 @@ for i in range(1,20):
 print(a)
 """
 
-"""D = { 5 :  {'P': {5: 'P'}, 6: 'Q'}, 7: 'R', 'Q':'S', "S": "T"}
+D = { 5 :  {'P': {5: 'P'}, 6: 'Q'}, 7: 'R', 'Q':'S', "S": "T"}
 
-print(D[D[D[5][6]]])"""
+print(D[D[D[5][6]]])
+
+
 """
 print(dict(sorted(s.items() ,key=lambda x: x[1]))) #use to order the dict value 
 

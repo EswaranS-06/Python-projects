@@ -1,9 +1,8 @@
-from memory_profiler import profile
-@profile
 def res():
     s = ['h','e','l','l','o']
     l = 0
     r = len(s)-1
+    print(s.sort(reverse=T))
 
     while l!=r:
         

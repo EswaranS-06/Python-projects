@@ -1,5 +1,3 @@
-from memory_profiler import profile
-@profile
 def isPalindrome( x):
     strx=str(x)
     revx = strx[::-1]

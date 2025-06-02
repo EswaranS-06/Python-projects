@@ -1,4 +1,3 @@
-
 num = 5
 bit_mask = 1 << num.bit_length()
 print(bin(num))

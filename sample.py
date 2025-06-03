@@ -11,12 +11,12 @@ for i in range(1,20):
         break
 print(a)
 """
-
+'''
 D = { 5 :  {'P': {5: 'P'}, 6: 'Q'}, 7: 'R', 'Q':'S', "S": "T"}
 
 print(D[D[D[5][6]]])
 
-
+'''
 """
 print(dict(sorted(s.items() ,key=lambda x: x[1]))) #use to order the dict value 
 
